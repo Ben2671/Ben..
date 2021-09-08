@@ -7,3 +7,4 @@ Test
 - Sperrzonen gefixt
 - SaltyNUI gefixt
 - prisonbreak
+- Fahrzeug despawn notify
